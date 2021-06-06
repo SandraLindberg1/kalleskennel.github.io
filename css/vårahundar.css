@@ -1,0 +1,50 @@
+body{
+  position: relative;
+  margin-top: 90px;
+}
+ 
+#bodyContent_divStamtavla{
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+
+#bodyContent_divStamtavla :visited{
+  color: rgba(168, 35, 35, 0.747);
+}
+
+#bodyContent_tblStamtavla{
+  background-color: transparent;
+  border-color: gainsboro;
+  width: 100%;
+  border-collapse: collapse;
+} 
+
+.stamtavla{
+  font-size: 10pt;
+  font-family: arial, verdana, helvetica, sans-serif;
+}
+
+.hälsa{
+  font-size: 8pt;
+}
+
+.card-title{
+  font-size: 17pt;
+  font-family: arial, verdana, helvetica, sans-serif;
+}
+
+.salu{
+  font-size: 8pt;
+}
+.regNr{
+  font-size: 8pt;
+}
+.puppyimg {
+  height: 100%;
+}
+.puppyimg img {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+}
